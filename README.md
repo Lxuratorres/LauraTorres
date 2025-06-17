@@ -25,13 +25,6 @@ Me considero una persona creativa, autodidacta y abierta a cualquier tipo de pro
 📫 Puedes escribirme a: lauramarcelita1103@gmail.com
 O conectarte conmigo en LinkedIn: www.linkedin.com/in/laura-torres-4787a3326 
 
-
-
-
-
-## Streaks Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lala29&theme=tokyonight-duo&hide_border=&locale=es&short_numbers=&date_format=n%2Fj%5B%2FY%5D&hide_longest_streak=true)](https://git.io/streak-stats)
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-torres-4787a3326/)
